@@ -37,7 +37,7 @@ function Contact() {
                 paddingBottom: "10px",
               }}
             >
-              Let's work together
+              Lets work together
             </h2>
             <p
               style={{

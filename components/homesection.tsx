@@ -30,7 +30,7 @@ export default function Homesection() {
           }}
         >
           <h4 style={{ color: "white" }}>Frontend Developer</h4>
-          <h1 style={{ fontSize: "45px", color: "white" }}>Hello I'm</h1>
+          <h1 style={{ fontSize: "45px", color: "white" }}>Hello I am</h1>
           <h1 style={{ fontSize: "45px", color: "#0b62d4" }}>Hassaan Arain</h1>
           <p style={{ color: "gray" }}>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad quis non
